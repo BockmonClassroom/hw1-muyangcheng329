@@ -5,7 +5,7 @@
 import csv
 
 # define the path
-file_path = "/Users/muyangcheng329/Desktop/Doc/Univ/SPR 2025/DS5110/hw1-muyangcheng329/data/Iris.csv"
+file_path = "data/Iris.csv"
 
 # open the CSV file
 with open(file_path, mode='r') as file:
